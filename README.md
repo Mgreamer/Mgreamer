@@ -25,4 +25,4 @@ It is important to consider the users needs based on what type of people will be
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
-I approached desigining software by deciding which operating system would be used. From there I decided which type of code would be the best. In the future in order to analyze and design a similar software application I would spend more time studying the code to be used ahead of time since much of coding can be forgotten if not practiced on a daily basis. 
+I approached desiging software by deciding which operating system would be used. From there I decided which type of code would be the best. In the future in order to analyze and design a similar software application I would spend more time studying the code to be used ahead of time since much of coding can be forgotten if not practiced on a daily basis. 
