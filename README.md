@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mary Reamer
-- 👀 I’m interested in healthcare automation and robotics. 
+- 👀 I’m interested in healthcare automation, pharmacy cybersecurity and robotics. 
 - 🌱 I’m currently learning C++, Java and Python.
 - 💞️ I’m looking to collaborate on learning to code better. 
 - 📫 How to reach me: Reamer_mary@yahoo.com
